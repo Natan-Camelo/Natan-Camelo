@@ -1,4 +1,4 @@
-### Olá!👋🏻 É um prazer conhece-lo, meu nome é Natan! 🐧 
+### Olá!👋🏻 É um prazer conhece-lo(a), meu nome é Natan! 🐧 
 
 ## Sobre mim:
 <div>
