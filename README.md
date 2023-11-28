@@ -5,6 +5,7 @@
   <ul>
     <li>Tenho 25 anos;</li>
     <li>Sou Ilustrador ✍🏻 e Desenvolvedor web 💻;</li>
+    <li>Estudando programação Front-end;</li>
     <li>Meus hobbys são: Ler quadrinhos, jogar video game, cozinhar e buscar novas tecnologias ou conhecimentos;</li>
   </ul>
 <div/>
