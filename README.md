@@ -4,9 +4,9 @@
 <div>
   <ul>
     <li>Tenho 25 anos;</li>
-    <li>Sou Ilustrador ✍🏻 e Desenvolvedor web 💻;</li>
+    <li>Desenvolvedor web 💻;</li>
     <li>Estudando programação Front-end;</li>
-    <li>Meus hobbys são: Ler quadrinhos, jogar video game, cozinhar e buscar novas tecnologias ou conhecimentos;</li>
+    <li>Meus hobbys são: Ler quadrinhos, fazer ilustrações, jogar video game, cozinhar e buscar novas tecnologias ou conhecimentos;</li>
   </ul>
 <div/>
   
@@ -14,7 +14,7 @@
 
 ## Tecnologias que uso:
 
-<div style="display: inline_block; aling="center""> <br/>
+<div style="display: inline_block; cursor: default; aling="center";> <br/>
   <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -32,4 +32,3 @@
 
 ## Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natan-camelo-de-sousa-526b9b277/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/natan_camelo/)
