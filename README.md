@@ -1,4 +1,4 @@
-<h1>Olá!👋🏻 É um prazer conhece-lo(a) 🐧</h1>
+<h2>Olá!👋🏻 É um prazer conhece-lo(a)!</h2>
 
 <div>
   <a href="https://www.linkedin.com/in/natan-camelo-de-sousa-526b9b277/" target="_blank">
